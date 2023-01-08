@@ -1,8 +1,7 @@
 # Limits Of Earth
 Project developed in Computational Design Laboratory \\ Department of Informatics Engineering \\ University of Coimbra, Portugal
 
-<img width="496" alt="color2" src="https://user-images.githubusercontent.com/57497723/211223572-2f95090b-ab01-48d7-a70d-fa54e2900124.png">
-
+<img width="1981" alt="Screenshot 2023-01-08 at 23 06 57" src="https://user-images.githubusercontent.com/57497723/211223615-f20cb256-2d1c-47c0-b77b-ad8fc1459210.png">
 
 ## Data sources
 ###### Global Mean Temperature (ºC/ºF)
